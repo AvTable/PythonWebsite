@@ -16,5 +16,6 @@ Content-Type: text/html; charset=utf-8
     <br>
     <p>oh also i can use css styling here too</p>
     <h3 style="color: #084885; font-size: 20px;">B L U E</h3>
+    <h6 style="color: red">Version ID: 1</h6>
 </body>
 </html>

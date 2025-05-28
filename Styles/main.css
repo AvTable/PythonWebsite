@@ -32,7 +32,7 @@ h3 {
 }
 .version {
   color: #cfe4fa;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   text-align: center;
 }
 
@@ -47,15 +47,15 @@ h3 {
 }
 .link {
   color: #cfe4fa; 
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 .link:hover {
   color: #ccbdfc; 
-  font-size: 0.75rem;
+  font-size: 0.93rem;
 }
 .link-separator {
   color: #cfe4fa; 
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .warning {

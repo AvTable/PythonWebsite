@@ -1,13 +1,14 @@
-#body {
+t#body {
   padding: 0.8rem;
 }
 .title {
-  font-size: 20px;
+  font-size: 1.5rem;
   color: #011024;
 }
 .title-div {
   color: #9da6b3;
   width: 60%;
+  height: 1.7rem;
 }
 .main-content-div {
   color: #c7ccd4;

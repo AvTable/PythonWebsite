@@ -28,5 +28,15 @@
   left: 0;
   text-align: center;
   background-color: #12363d;
-  height: 1rem;
+  height: 2.5rem;
+  padding: 0.2rem;
 }
+.link {
+  color: #cfe4fa; 
+  font-size: 0.7rem;
+}
+.link:hover {
+  color: #ccbdfc; 
+  font-size: 0.75rem;
+}
+

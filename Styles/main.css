@@ -6,16 +6,16 @@
   color: #011024;
 }
 .title-div {
-  color: #9da6b3;
+  background-color: #9da6b3;
   width: 60%;
   height: 1.7rem;
 }
 .main-content-div {
-  color: #c7ccd4;
+  background-color: #c7ccd4;
   width: 90%;
 }
 .version {
-  color: red;
+  color: #cfe4fa;
   font-size: 0.7rem;
   text-align: center;
 }
@@ -25,5 +25,5 @@
   bottom: 0;
   left: 0;
   text-align: center;
-  background-color: yellow;
+  background-color: #12363d;
 }

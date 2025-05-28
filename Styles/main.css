@@ -8,11 +8,13 @@
 .title-div {
   background-color: #9da6b3;
   width: 60%;
-  height: 1.7rem;
+  height: 2.3rem;
+  padding: 0.4rem;
 }
 .main-content-div {
   background-color: #c7ccd4;
   width: 90%;
+  padding: 0.4rem;
 }
 .version {
   color: #cfe4fa;

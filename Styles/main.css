@@ -12,12 +12,14 @@
   width: 30%;
   padding: 0.1rem;
   margin: 0.8rem;
+  border-radius: 0.2rem;
 }
 .main-content-div {
   background-color: #d1d9e6;
   width: 90%;
   padding: 0.4rem;
   margin: 0.8rem;
+  border-radius: 0.4rem;
 }
 .version {
   color: #cfe4fa;

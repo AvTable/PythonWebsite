@@ -3,11 +3,17 @@
 <head>
     <title>Home - Custom Hosted Website</title>
     <link rel="stylesheet" href="/main.css">
+    <script>
+        function hidewarning() {
+            const element = document.getElementById("warning-box");
+            element.style.display = "none";
+        }
+    </script>
 </head>
 <body id="body">
-    <div class="warning">
+    <div class="warning" id="warning-box">
         <h4>The site is unfinished, and many details are missing.</h4>
-        <button>I Understand</input>
+        <button onclick="hidewarning()">I Understand</input>
     </div>
     
     <div class="title-div">

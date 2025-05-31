@@ -6,7 +6,7 @@ Storage for the resources needed for the Python website to run, such as the HTML
 
 
 **Where can I access the site?**
-> https://htvr6t8r-32832.use2.devtunnels.ms/
+> That changes from time to time, so there's not really one specific URL.
 
 **Why is the site down?**
 > My personal computer has to be actively running the Python script for it to register your request, which isn't currently happening because:
